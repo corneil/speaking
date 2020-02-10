@@ -1,3 +1,4 @@
+:sectlinks:
 = Speaking engagements.
 
 == Bio
@@ -15,6 +16,10 @@ image::image-512.jpg[]
 == Talks
 
 === KFSM: A Kotlin DSL for Finite State Machines
+
+- Have you ever drawn a state-diagram?
+- Have you ever implemented a state-machine?
+- Have you ever modified the state-machine after some time?
 
 Join me on the journey of create a Kotlin DSL for Finite State Machines.
 
