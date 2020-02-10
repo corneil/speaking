@@ -11,7 +11,7 @@ I have used a wide variety of programming languages and technologies to solve pr
 
 I am passionate about developer productivity and have a severe allergic reaction to bureaucracy.
 
-image::image-512.jpg[]
+image::image-512.jpg[Photo,128,128]
 
 == Talks
 
