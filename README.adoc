@@ -1,4 +1,4 @@
-:sectlinks:
+:sectanchors:
 = Speaking engagements.
 
 == Bio
