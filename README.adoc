@@ -1,0 +1,39 @@
+= Speaking engagements.
+
+== Bio
+
+human, male, husband, father, programmer, geek, Full Stack Architect with #SkinInTheGame
+
+I have earned a living by programming since 1985 and have worked on very small embedded systems as well as large mainframe systems and everything in between.
+
+I have used a wide variety of programming languages and technologies to solve problems across very different domains. Recently mostly on the JVM in financial services.
+
+I am passionate about developer productivity and have a severe allergic reaction to bureaucracy.
+
+image::image-512.jpg[]
+
+== Talks
+
+=== KFSM: A Kotlin DSL for Finite State Machines
+
+Join me on the journey of create a Kotlin DSL for Finite State Machines.
+
+The session will demonstrate the coding of a simple FSM for Android or the Browser front-end or a Spring Backend depending on the audience vote.
+
+=== The care and feeding of Developers
+
+==== The Pitch
+
+Without developers, it will be impossible to move any business forward in a digital world.
+How do you look after these strange creatures if you are a team lead, development manager or CTO?
+How do you coach developers to look after themselves?
+Looking after yourself as a developer.
+
+==== Description
+
+This talk will cover a range of topics that impact developer productivity and welfare.
+How do you manage cognitive load?
+How much multi-tasking can you do?
+Are your teams effective?
+How do you go faster?
+What does the latest science say about human behaviour, productivity and working in teams.
