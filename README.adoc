@@ -2,6 +2,8 @@
 = Speaking engagements.
 
 == Bio
+[.text-right]
+image::image-512.jpg[Photo,128,128]
 
 human, male, husband, father, programmer, geek, Full Stack Architect with #SkinInTheGame
 
@@ -10,8 +12,6 @@ I have earned a living by programming since 1985 and have worked on very small e
 I have used a wide variety of programming languages and technologies to solve problems across very different domains. Recently mostly on the JVM in financial services.
 
 I am passionate about developer productivity and have a severe allergic reaction to bureaucracy.
-
-image::image-512.jpg[Photo,128,128]
 
 == Talks
 
