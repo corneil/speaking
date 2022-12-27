@@ -5,17 +5,17 @@
 [.text-right]
 image::image-512.jpg[Photo,128,128]
 
-human, male, husband, father, programmer, geek, Full Stack Architect with #SkinInTheGame
+human, male, husband, father, programmer, geek, Full Stack Architect and Software Engineer with #SkinInTheGame
 
-I have earned a living by programming since 1985 and have worked on very small embedded systems as well as large mainframe systems and everything in between.
+I have earned a living by programming since 1985 and have worked on very small embedded systems as well as mainframe systems and everything in between.
 
-I have used a wide variety of programming languages and technologies to solve problems across very different domains. Recently mostly on the JVM in financial services.
+I have used a wide variety of programming languages and technologies to solve problems across very different domains. Recently mostly on the JVM in financial services, and now at VMware on the Spring Cloud Data Flow team.
 
 I am passionate about developer productivity and have a severe allergic reaction to bureaucracy.
 
 == Talks
 
-=== KFSM: A Kotlin DSL for Finite State Machines
+=== 1. KFSM: A Kotlin DSL for Finite State Machines
 
 - Have you ever drawn a state-diagram?
 - Have you ever implemented a state-machine?
@@ -25,7 +25,7 @@ Join me on the journey of create a Kotlin DSL for Finite State Machines.
 
 The session will demonstrate the coding of a simple FSM for Android or the Browser front-end or a Spring Backend depending on the audience vote.
 
-=== The care and feeding of Developers
+=== 2. The care and feeding of Developers
 
 ==== The Pitch
 
@@ -43,8 +43,13 @@ Are your teams effective?
 How do you go faster?
 What does the latest science say about human behaviour, productivity and working in teams.
 
+=== 3. Sweet Streams are made of this.
+
+
 == Social Media
 
 ++++
-<a rel="me" href="https://hachyderm.io/@corneil">Mastodon</a>
+<a rel="me" href="https://hachyderm.io/@corneil">Mastodon</a><br>
+<a href="https://twitter.com/corneil">Twitter</a><br>
+<a href="https://www.linkedin.com/in/corneil">LinkedIn</a><br>
 ++++
