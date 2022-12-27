@@ -42,3 +42,9 @@ How much multi-tasking can you do?
 Are your teams effective?
 How do you go faster?
 What does the latest science say about human behaviour, productivity and working in teams.
+
+== Social Media
+
+++++
+<a rel="me" href="https://hachyderm.io/@corneil">Mastodon</a>
+++++
